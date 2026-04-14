@@ -1,0 +1,16 @@
+D:\visual\repo\ejercicio 2\ejercicio 2\bin\Debug\net10.0-windows\ejercicio 2.exe
+D:\visual\repo\ejercicio 2\ejercicio 2\bin\Debug\net10.0-windows\ejercicio 2.deps.json
+D:\visual\repo\ejercicio 2\ejercicio 2\bin\Debug\net10.0-windows\ejercicio 2.runtimeconfig.json
+D:\visual\repo\ejercicio 2\ejercicio 2\bin\Debug\net10.0-windows\ejercicio 2.dll
+D:\visual\repo\ejercicio 2\ejercicio 2\bin\Debug\net10.0-windows\ejercicio 2.pdb
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio_2.Form1.resources
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.csproj.GenerateResource.cache
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.AssemblyInfoInputs.cache
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.AssemblyInfo.cs
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.csproj.CoreCompileInputs.cache
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.dll
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\refint\ejercicio 2.dll
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.pdb
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ejercicio 2.genruntimeconfig.cache
+D:\visual\repo\ejercicio 2\ejercicio 2\obj\Debug\net10.0-windows\ref\ejercicio 2.dll

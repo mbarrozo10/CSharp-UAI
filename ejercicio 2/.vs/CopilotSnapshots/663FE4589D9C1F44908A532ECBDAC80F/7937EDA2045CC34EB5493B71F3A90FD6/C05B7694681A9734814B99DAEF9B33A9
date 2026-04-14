@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Intrinsics.X86;
+using System.Text;
+
+namespace ejercicio_2
+{
+    public class ESTACION
+    {
+        public List <SURTIDOR> surtidores = new List <SURTIDOR> ();
+
+        public float CalcularRecaudacionTotal()
+        {
+            float total = 0;
+            foreach (var surtidor in surtidores)
+            {
+                total += surtidor.Total;
+            }
+
+            return total;
+        }
+
+        public float CalcularRecaudacionSurtidor(SURTIDOR surtidor)
+        {
+            float recaudado=0;
+            foreach (var s in surtidores)
+            {
+                if(s == surtidor)
+                {
+                    recaudado = s.Total;
+                }
+            }
+
+            return recaudado;
+        }
+
+        public SURTIDOR MaxRecaudado()
+        {
+            SURTIDOR temp = new SURTIDOR();
+            float max = 0;
+            foreach (var s in surtidores)
+            {
+                if(s.Total> max)
+                {
+                    max = s.Total;
+                    temp = s;
+                }
+            }
+            return temp;
+        }
+
+    }
+}
